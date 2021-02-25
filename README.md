@@ -5,15 +5,15 @@ This is a simple brainfuck interpreter I wrote in C and took about 1 hour to mak
 Because I made my own interpreter I also made my own custom version of brainfuck-
 that also has one new instruction
 
-#    Comment                                (this is the one I added)
-+    Adds 1 to the current cell
--    Subtracts 1 from the current cell
-<    Switches to the cell on the right
->    Switches to the cell on the left
-[    Begins a loop
-]    Ends a loop
-.    Output something to the screen
-,    Get input from the keyboard
+#  -  Comment                                (this is the one I added)
++  -  Adds 1 to the current cell
+-  -  Subtracts 1 from the current cell
+<  -  Switches to the cell on the right
+>  -  Switches to the cell on the left
+[  -  Begins a loop
+]  -  Ends a loop
+.  -  Output something to the screen
+,  -  Get input from the keyboard
 
 
 # How to compile the interpreter
