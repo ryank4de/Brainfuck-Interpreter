@@ -1,0 +1,11 @@
+!		Comment							(this is my instruction i added)
++		Add to the current cell
+-		Subtract from the current cell
+>		Switch to the cell on the left
+<		Switch to the cell on the right
+[		Begins a loop
+]		Ends a loop
+.		Outputs to the screen
+,		Gets input from the keyboard
+
+Anthing else returns an error
