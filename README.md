@@ -7,8 +7,12 @@ You can find the instructions in the op-code.txt file
 1. Go into the bfc directory
 2. Type make
 3. Now you can use Brain Fuck!
+
+
 (Optional) 4. Move the exe to '/usr/local/bin/'(i use mac which this will work on linux for windows you can google where to move it)
-(Optional) Whatyou just did there made it so you can just type 'brainfuck' in your terminal(cmd for windows) without making a copy of the executable
+
+
+(Optional) Whaty ou just did there made it so you can just type 'brainfuck' in your terminal(cmd for windows) without making a copy of the executable
 
 # How to use the interpreter
 1. Make a brainfuck program with the '.bf' file extension
